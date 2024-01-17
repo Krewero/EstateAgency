@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AgencyApp/1.0.0": {
+        "dependencies": {
+          "AgencyLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AgencyApp.dll": {}
+        }
+      },
+      "AgencyLibrary/1.0.0": {
+        "runtime": {
+          "AgencyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgencyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgencyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

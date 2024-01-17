@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AgencyLibrary\AgencyLibrary.csproj" />
+    <ProjectReference Include="..\AgencyDataBase\AgencyDataBase.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

@@ -8,4 +8,9 @@ public class Villa : Apartment
     {
         this.MqGarden = mqGarden;
     }
+
+    public override string ToString()
+    {
+        return $"Type of estate: Villa\nAddress: {Address}\nCity: {City}\nCap: {Cap}\nMq: {Mq}\nNumber of rooms: {NumRooms}\nNumber of Bathrooms: {NumBathrooms}\nMq of the garden: {MqGarden}";
+    }
 }

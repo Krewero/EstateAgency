@@ -14,6 +14,6 @@ public class Apartment : Properties
 
     public override string ToString()
     {
-        return $"Type of propertie: Apartment\nAddress: {Address}\nCity: {City}\nCap: {Cap}\nNumber of mq: {_mq}\nNumber of rooms: {NumRooms}\nNumber of bathrooms: {NumBathrooms}";
+        return $"Type of propertie: Apartment\nAddress: {Address}\nCity: {City}\nCap: {Cap}\nNumber of mq: {Mq}\nNumber of rooms: {NumRooms}\nNumber of bathrooms: {NumBathrooms}";
     }
 }

@@ -8,4 +8,9 @@ public class Box : Properties
     {
         this.ParkingSpaces = parkingSpaces;
     }
+
+    public override string ToString()
+    {
+        return $"Type of estate: Box\nAddress: {Address}\nCity: {City}\nCap: {Cap}\nMq: {Mq}\nNumber of parking spaces: {ParkingSpaces}";
+    }
 }

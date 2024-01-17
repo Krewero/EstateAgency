@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgencyApp", "AgencyApp\Agen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgencyLibrary", "AgencyLibrary\AgencyLibrary.csproj", "{7B66B7F6-FFFF-400B-A708-27BDAB7D462C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgencyDataBase", "AgencyDataBase\AgencyDataBase.csproj", "{A700AA73-5699-414D-9DB2-EADB804AF36B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7B66B7F6-FFFF-400B-A708-27BDAB7D462C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B66B7F6-FFFF-400B-A708-27BDAB7D462C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B66B7F6-FFFF-400B-A708-27BDAB7D462C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A700AA73-5699-414D-9DB2-EADB804AF36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A700AA73-5699-414D-9DB2-EADB804AF36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A700AA73-5699-414D-9DB2-EADB804AF36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A700AA73-5699-414D-9DB2-EADB804AF36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

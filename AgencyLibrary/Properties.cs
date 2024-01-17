@@ -14,7 +14,11 @@
             {
                 if (value.Length < 10)
                 {
-                    value = _codeID;
+                    _codeID = value;
+                }
+                else
+                {
+                    _codeID = "Impossible to set this value.";
                 }
             }
             get { return _codeID; }
@@ -26,7 +30,11 @@
             {
                 if (value > 10)
                 {
-                    value = _mq;
+                    _mq = value;
+                }
+                else
+                {
+                    _mq = 0;
                 }
             }
             get { return _mq; }
@@ -37,8 +45,8 @@
             this.Address = address;
             this.City = city;
             this.Cap = cap;
-            this._codeID = codeId;
-            this._mq = mq;
+            this.CodeId = codeId;
+            this.Mq = mq;
         }
     }
 }

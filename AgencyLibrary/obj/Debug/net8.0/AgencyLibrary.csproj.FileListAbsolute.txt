@@ -1,0 +1,12 @@
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\bin\Debug\net8.0\AgencyLibrary.deps.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\bin\Debug\net8.0\AgencyLibrary.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\bin\Debug\net8.0\AgencyLibrary.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.AssemblyInfoInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.AssemblyInfo.cs
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.sourcelink.json
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\refint\AgencyLibrary.dll
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\AgencyLibrary.pdb
+C:\Users\Emanuele Solano\OneDrive\Desktop\Lele\Progetti Github\EstateAgency\AgencyLibrary\obj\Debug\net8.0\ref\AgencyLibrary.dll
